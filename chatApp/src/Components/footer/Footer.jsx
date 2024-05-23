@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="footer p-10 mbg-base-200 text-base-content">
   <aside>
     <img src={logo} alt="" className='w-[100px] rounded-full '/>
-      <p>Elisha Gill<br/>Creator of this project</p>
+      <p>Shahzar Nasir<br/>Creator of this project</p>
   </aside> 
   <nav>
     <h6 className="footer-title">Services</h6> 
